@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/song-recommender/static/css/main.31a2bec8.chunk.css",
+    "main.js": "/song-recommender/static/js/main.6934e27a.chunk.js",
+    "main.js.map": "/song-recommender/static/js/main.6934e27a.chunk.js.map",
+    "runtime-main.js": "/song-recommender/static/js/runtime-main.ea639347.js",
+    "runtime-main.js.map": "/song-recommender/static/js/runtime-main.ea639347.js.map",
+    "static/js/2.601030d2.chunk.js": "/song-recommender/static/js/2.601030d2.chunk.js",
+    "static/js/2.601030d2.chunk.js.map": "/song-recommender/static/js/2.601030d2.chunk.js.map",
+    "index.html": "/song-recommender/index.html",
+    "precache-manifest.7c516359d0bdeb675a2387103fc1c22b.js": "/song-recommender/precache-manifest.7c516359d0bdeb675a2387103fc1c22b.js",
+    "service-worker.js": "/song-recommender/service-worker.js",
+    "static/css/main.31a2bec8.chunk.css.map": "/song-recommender/static/css/main.31a2bec8.chunk.css.map",
+    "static/js/2.601030d2.chunk.js.LICENSE.txt": "/song-recommender/static/js/2.601030d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea639347.js",
+    "static/js/2.601030d2.chunk.js",
+    "static/css/main.31a2bec8.chunk.css",
+    "static/js/main.6934e27a.chunk.js"
+  ]
+}
